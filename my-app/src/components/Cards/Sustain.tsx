@@ -1,7 +1,7 @@
 function Sustain() {
     return (
         <>
-            <div className="p-3">
+            <div className="bg-green-400 rounded-lg p-6">
                 {/* <div className="tabtext">
                     <h3 className="text-center text-lg">Sustainability Analyst</h3>
                 </div> */}

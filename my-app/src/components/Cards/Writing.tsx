@@ -1,7 +1,7 @@
 function Writing() {
     return (
         <>
-            <div className=" p-3">
+            <div className="rounded-lg bg-green-500 p-6">
                 {/* <div className="tabtext">
                     <h3 className="text-center text-lg">Writer</h3>
                 </div> */}

@@ -39,11 +39,11 @@ const Footer = () => {
 
                 <div className="text-xs pb-12 ">
                     {/* copyright information and who made the site (me) */}
-                    <p className="inline-flex w-full justify-center mx-auto">© Copyright 2024 Cedric Busteed. All rights reserved.</p>
+                    <p className="inline-flex w-full justify-center mx-auto">© Copyright {new Date().getFullYear()} Cedric Busteed. All rights reserved.</p>
                     <p className="inline-flex w-full justify-center mx-auto">Site by Cedric Busteed</p>
                 </div>
             </div>
-            <script>{new Date().getFullYear()};</script>
+
         </footer>
     );
 };
