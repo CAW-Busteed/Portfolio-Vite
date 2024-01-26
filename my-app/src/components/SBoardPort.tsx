@@ -6,7 +6,7 @@ import Header from 'components/Header'
 import Footer from './Footer'
 import React, { useState } from 'react'
 
-function App() {
+function SBoardPort() {
   const [active, setActive] = useState('home')
   const [dropdownVisible, setDropdownVisible] = useState(false);
 
@@ -51,4 +51,4 @@ function App() {
   )
 }
 
-export default App
+export default SBoardPort

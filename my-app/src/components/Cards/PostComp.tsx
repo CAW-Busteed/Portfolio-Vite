@@ -1,13 +1,6 @@
 import React, { useState } from 'react'
 
-interface PostCompProps {
-    title: string;
-    content: string;
-    date: string;
-    image: string;
-}
-
-function PostComp({ title, content, date }) {
+function PostComp({ title, content, date }: { title: string, content: string, date: string }) {
 
     const [isOpen, setIsOpen] = useState(false);
 
