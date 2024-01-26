@@ -21,10 +21,10 @@ const Footer = () => {
                         <a href="contact.html" className="text-gray-900 px-2">Contact</a>
                     </div>
                     <div className="inline-flex w-full justify-center gap-x-1.5 px-3 py-2 m-2 text-sm mx-auto">
-                        <a href="coder-port.html" className="text-gray-700 px-2">Programs</a>
-                        <a href="writer-port.html" className="text-gray-700 px-2">Prose</a>
-                        <a href="storyboard-port.html" className="text-gray-700 px-2">Storyboards</a>
-                        <a href="sustainability-port.html" className="text-gray-700 px-2">Sustainability</a>
+                        <a href="port-prog.html" className="text-gray-700 px-2">Programs</a>
+                        <a href="port-write.html" className="text-gray-700 px-2">Prose</a>
+                        <a href="port-sboards.html" className="text-gray-700 px-2">Storyboards</a>
+                        <a href="port-sustain.html" className="text-gray-700 px-2">Sustainability</a>
                     </div>
 
                 </div>
